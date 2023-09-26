@@ -1,8 +1,7 @@
 ## trading-strategy
-
-## Project Overview:
 I am a part time trader who loves trading a lot. However, I knew deeply that human trading without the support of data and algorithms is more likely to fail. So, I developed this trading strategy with python that could trade automatically by the strategy that I have developed myself. 
 
+## Project Overview:
 There are 3 parts of the project. 
 - First part: Drawing data from Binance API (Cryptocurrency broker) , modified and save it into a csv file.
 - Second part: Developed multiple profit strategy with back testing library by using the historical data prepared before.
