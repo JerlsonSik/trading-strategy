@@ -18,6 +18,8 @@ There are 3 parts of the project.
 - Connected to AWS server and MySQL to get real-time data and run the script 24/7 without missing any possible profitable trade
 
 ## What I learned:
+![trading](https://github.com/JerlsonSik/trading-strategy/assets/144855178/ae7d3d05-695c-4d50-930a-b4218726c735)
+
 - **Programming Skills**: Python skills such as NumPy, Pandas, Backtesting, API. Being able to realize my trading idea and knowledge into code.
 - **Data Analysis: Analysis**: strategy result after back testing and improve the result by testing out more technical combination of indicators
 - **AWS**: Deploy my strategy to cloud server to run automatically 
