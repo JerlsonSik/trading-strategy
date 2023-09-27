@@ -1,8 +1,10 @@
 ## trading-strategy
 I am a part time trader who loves trading a lot. However, I knew deeply that human trading without the support of data and algorithms is more likely to fail. So, I developed this trading strategy with python that could trade automatically by the strategy that I have developed myself. 
-![trading-result](https://github.com/JerlsonSik/trading-strategy/assets/144855178/65e612bf-4924-48f4-ac51-18b6e9c86138)
+
 
 ## Project Overview:
+![trading-result](https://github.com/JerlsonSik/trading-strategy/assets/144855178/65e612bf-4924-48f4-ac51-18b6e9c86138)
+
 There are 3 parts of the project. 
 - First part: Drawing data from Binance API (Cryptocurrency broker) , modified and save it into a csv file.
 - Second part: Developed multiple profit strategy with back testing library by using the historical data prepared before.
